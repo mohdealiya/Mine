@@ -1,1 +1,1 @@
-# Theories belonging to physics and mthas /
+# Theories belonging to physics and maths /
